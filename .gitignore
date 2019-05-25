@@ -4,6 +4,7 @@
 out/
 .gradle/
 gradle/
+*.iml
 
 # Log file
 *.log
